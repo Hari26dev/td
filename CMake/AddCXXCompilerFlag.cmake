@@ -1,6 +1,6 @@
 # - Adds
 
-
+#
  a compiler flag if it is supported by the compiler
 #
 # This function checks that the supplied compiler flag is supported and then
